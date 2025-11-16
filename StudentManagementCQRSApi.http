@@ -1,6 +1,0 @@
-@StudentManagementCQRSApi_HostAddress = http://localhost:5111
-
-GET {{StudentManagementCQRSApi_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
